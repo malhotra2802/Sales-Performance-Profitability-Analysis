@@ -1,7 +1,7 @@
-**# Sales-Performance-Profitability-Analysis**
+## Sales-Performance-Profitability-Analysis
 An Excel-based analysis of a retail sales dataset (Jan 2014 – Dec 2017, ~9,990 orders) to understand what drives sales, where profit is made, and where it is lost.
 
-**Business Questions:**
+## Business Questions:
 
 1. How has profit changed over time, and which categories drive it?
 Profit nearly doubled, from about $49.6K in 2014 to about $93.4K in 2017, and grew every year. Technology (about $145K total) and Office Supplies (about $122K) drive almost all of it. Furniture contributed only about $18K and fell from $7.0K in 2016 to $3.0K in 2017.
@@ -21,12 +21,12 @@ Yes, with one dip. Active customers went from 595 (2014) to 573 (2015), then ros
 6. Are there seasonal patterns in monthly sales?
 Yes. Sales peak in the last quarter, with November (about $352K), December (about $325K) and September (about $308K) together making up about 43% of annual sales. February is the weakest month (about $60K).
 
-**Headline Numbers**
+## Headline Numbers
 .Total sales: about $2.30M; total profit: about $286K (profit margin about 12.5%).
 .Profit grew every year: $49.6K (2014) to $93.4K (2017).
 .Technology and Office Supplies drive most profit; Furniture has high sales but a very low margin (about $18K profit on $742K sales).
 .Tables (about -$17.7K profit), Bookcases and Supplies are loss-making sub-categories (found by analysing the dataset directly, not shown on the dashboard).
 
-**Skills & Tools Used**
+## Skills & Tools Used
 
 Excel, Excel Tables, PivotTables, PivotCharts, slicers, dashboard design, data cleaning, KPI analysis.
